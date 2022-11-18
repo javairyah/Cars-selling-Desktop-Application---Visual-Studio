@@ -1,0 +1,2 @@
+# Cars-selling-Desktop-Application---Visual-Studio
+For developing this we choose any existing website called “arngren.net” which has no working functionality and the design is also no good as a website should have and transform into an easily navigable website where customers can purchase vehicles and use common features such as add to cart, navigation option, and footer option. By using Visual Studio to remodel and evolve the website for users or consumers on a desktop version, and we coded in the C# programming language. 
